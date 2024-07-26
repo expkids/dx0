@@ -303,7 +303,7 @@
 			{
 				"name": "國際影视",
 				"type": 0,
-				"url": "https://github.com/bryanhk/me/main/tw.m3u",
+				"url": "https://github.com/bryanhk/me/raw/main/tw.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
