@@ -67,7 +67,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qyu.json"
-    },{"key": "xm影视","name": "宝盒|影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
+    },        {
+            "key": "yt",
+            "name": "宝盒┃4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+        },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
+        },
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, {"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
    "ext":{
     "滤词": "",
@@ -200,6 +215,31 @@
 ]
 }
 }
+        },   {
+            "key": "奈落",
+            "name": "奈落┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "",
+                "搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html",
+                "播放组数": "module-blocklist&&</div>",
+                "跳转播放链接": "var player_*url\":\"&&\"",
+                "跳转解析": "默认$var Player*url=",
+                "数组": "module-item&&</div>",
+                "线路标题": "<span>&&</span>",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "副标题": ">&&</div>",
+                "线路数组": "module-tab-item tab-item&&</div>",
+                "简介": "<span>&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45",
+                "筛选": ""
+            }
         },  
 	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
