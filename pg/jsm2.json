@@ -17,7 +17,8 @@
             "ext": "1"
         },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
-	 {
+	 { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } }, 
+		{
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
       "type": 3,
@@ -72,15 +73,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qyu.json"
-    },  {
-            "key": "drpy_js_黑木耳资源",
-            "name": "木耳|影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/mr.js"
-        },
+    },{"key": "奈飞影视","name":"鸭奈飞|影视","type":3,"api":"csp_XYQHiker", "jar": "https://gitee.com/juanxiao/bh/raw/master/wc.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynf.json"},
+
+{"key": "奈飞中文","name":"奈飞|中文","type":3,"api":"csp_XYQHiker","jar": "https://gitee.com/juanxiao/bh/raw/master/wc.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json"},
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, 
-  {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys",  "jar": "https://gitee.com/tvkj/tw/raw/main/lib/ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys",  "jar": "https://gitee.com/juanxiao/bh/raw/master/wc.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
   {
             "key": "奈落",
             "name": "奈落┃蓝光",
@@ -106,7 +103,7 @@
                 "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45",
                 "筛选": ""
             }
-        },  
+        }, {"key": "凯奇追剧","name": "凯奇|影视","type": 3,"api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}}, 
 	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 		{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
@@ -338,7 +335,7 @@
 			 {
       "name": "宝盒专享",
       "type": 0,
-      "url": "https://guot55.serv00.net/zbcs.php",
+      "url": "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
