@@ -167,7 +167,6 @@
 		{"key":"热播影视","name":"热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"厂长资源","name":"厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 		{"key":"低端影视","name":"低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"利播影视","name":"利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
 		{
             "key": "yt",
             "name": "宝盒┃4K",
