@@ -168,34 +168,6 @@
 		{"key":"厂长资源","name":"厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 		{"key":"低端影视","name":"低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 		{
-            "key": "yt",
-            "name": "宝盒┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-        }, {
-            "key": "落攻阁",
-            "name": "落攻阁|影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-	    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.lggys.com/",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "播放链接": "href=\"&&\"",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "线路数组": "<div class=\"module-tab-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.lggys.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$shuangwenduanju"
-            }
-        }, 
-		{
       "key": "米爱💋蓝光",
       "name": "米爱|蓝光",
       "type": 3,
