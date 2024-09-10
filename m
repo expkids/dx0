@@ -203,8 +203,7 @@
       }
     },
     	{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-	{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-        {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json"},
+	{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json"},
         {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
         {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
 
