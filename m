@@ -6,7 +6,7 @@
     
 {
       "name": "live",
-      "url": "https://tv.iill.top//m3u/Adult",
+      "url": "https://ghproxy.com//https://raw.githubusercontent.com/BryanHK/disc/main/live.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
