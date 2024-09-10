@@ -26,14 +26,14 @@
                         "searchable": 0,
                         "changeable": 1,
                         "indexs":1,
-                        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/douban.json"
+                        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/douban.json"
                 },
         {
             "key": "drpy_js_黑木耳资源",
             "name": "木耳|影视",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
         }, {
             "key": "✨YY影视✨",
             "name": "UU|影视",
@@ -59,14 +59,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-	  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",	
+	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",	
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },{"key":"New6v","name":"六微┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"}, {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},  {"key": "厂长影院",
             "name": "厂长┃影院",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
@@ -186,9 +186,9 @@
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/4kys.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/4kys.json"
     },{
             "key": "yt",
             "name": "宝盒┃4K",
@@ -203,7 +203,7 @@
             "name": "皮皮|影视",
             "type": 3,
             "api": "csp_XBPQ",
-	   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+	   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "playerType": "2",
             "ext": {
                 "请求头": "",
@@ -239,7 +239,7 @@
             "name": "落攻阁|影视",
             "type": 3,
             "api": "csp_XBPQ",
-	    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+	    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "ext": {
                 "主页url": "https://www.lggys.com/",
                 "图片": "data-original=\"&&\"",
@@ -271,7 +271,7 @@
       "name": "七夕|影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -291,7 +291,7 @@
       "name": "米爱|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -326,7 +326,7 @@
       "name": "云播|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -352,12 +352,12 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-     {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},  {
+     {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},  {
             "key": "三米ys",
             "name": "三米｜秒播",
             "type": 3,
             "api": "csp_XBPQ",
-	    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+	    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "ext": {
                 "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
                 "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
@@ -368,17 +368,17 @@
             "name": "星辰｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-	  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "ext": {
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
         },
-		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-                {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json"},
+                {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json"},
 {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
     {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
