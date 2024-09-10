@@ -159,7 +159,6 @@
 		{"key":"FreeOK","name":"富瑞┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"兄弟影视","name":"兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
 		{"key":"明日影视","name":"明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
-		{"key":"啾啾影视","name":"啾啾┃影视","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1},
 		{"key":"骚火影视","name":"骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
 		{"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"桃子┃影视","name":"桃子┃影视","type":3,"api":"csp_Taozi","searchable":1,"quickSearch":1,"filterable":1},
