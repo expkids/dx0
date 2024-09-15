@@ -6,7 +6,7 @@
     
 {
       "name": "live",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/bryanhk/IPTV2024/main/PDX-V6.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/expkids/IPTV2024/main/PDX-V6.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
