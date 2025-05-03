@@ -1009,6 +1009,139 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/哆啦新番社.json"
     },
     {
+      "key": "56动漫",
+      "name": "❄️56｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/56动漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "☄️NT｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/NT动漫.js"
+    },
+    {
+      "key": "Anime1",
+      "name": "🔥Anime1｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/Anime1.js"
+    },
+    {
+      "key": "曼波动漫",
+      "name": "💧曼波｜动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+    },
+    {
+      "key": "稀饭动漫",
+      "name": "🧡稀饭｜动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
+    },
+    {
+      "key": "咕咕动漫",
+      "name": "💚咕咕｜动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
+    },
+    {
+      "key": "动画片",
+      "name": "💛动画片｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/动画片大全.js"
+    },
+    {
+      "key": "路漫漫",
+      "name": "💙路漫漫｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/路漫漫.js"
+    },
+    {
+      "key": "动漫岛",
+      "name": "💜动漫岛｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/动漫岛.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "🤎去看吧｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/去看吧.js"
+    },
+    {
+      "key": "爱弹幕",
+      "name": "🖤爱弹幕｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/爱弹幕.js"
+    },
+    {
+      "key": "异世界",
+      "name": "🤍异世界｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/异世界.js"
+    },
+    {
+      "key": "好看动漫",
+      "name": "💋好看｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/好看动漫.js"
+    },
+    {
+      "key": "奇米动漫",
+      "name": "💯奇米｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/奇米动漫.js"
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "💢怡萱｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/怡萱动漫.js"
+    },
+    {
+      "key": "花子动漫",
+      "name": "💥花子｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/花子动漫.js"
+    },
+    {
+      "key": "动漫巴士",
+      "name": "💫巴士｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/动漫巴士.js"
+    },
+    {
+      "key": "樱花动漫",
+      "name": "💦樱花｜动漫",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/樱花动漫.js"
+    },
+    {
       "key": "修罗影视",
       "name": "💨修罗｜磁力",
       "type": 3,
@@ -1139,6 +1272,114 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "阿里云盘",
+      "name": "🐠阿里｜云盘",
+      "type": 3,
+      "api": "csp_PanAli",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/aliShare.json"
+    },
+    {
+      "key": "夸克云盘",
+      "name": "🐙夸克｜云盘",
+      "type": 3,
+      "api": "csp_PanQuark",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/quarkShare.json"
+    },
+    {
+      "key": "UC",
+      "name": "🦋UC｜云盘",
+      "type": 3,
+      "api": "csp_PanUc",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/ucShare.json"
+    },
+    {
+      "key": "百度云盘",
+      "name": "🐜百度｜云盘",
+      "type": 3,
+      "api": "csp_PanBaiDu",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "短剧合集",
+      "name": "🐝短剧｜合集",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/quark.min.js",
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/短剧合集.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "AList",
+      "name": "🐞AList｜合集",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/alist.json"
+    },
+    {
+      "key": "网络直播",
+      "name": "🦠网络｜直播",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/py/网络直播.py"
+    },
+    {
+      "key": "88看球",
+      "name": "💐88｜看球",
+      "type": 3,
+      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/88看球.js"
+    },
+    {
+      "key": "急救教学",
+      "name": "🌹急救｜教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
     },
     {
       "key": "push_agent",
