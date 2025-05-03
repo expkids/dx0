@@ -518,15 +518,6 @@
       "filterable": 1
     },
     {
-      "key": "瓜子影视",
-      "name": "🚂瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "采集之王",
       "name": "🚃采集｜合集",
       "type": 3,
