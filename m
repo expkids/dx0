@@ -1,5 +1,5 @@
 {
-  "spider": "https://try.gogs.io/guot54/bh/raw/main/spider.jar",
+  "spider": "./jar/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
