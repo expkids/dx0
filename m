@@ -473,15 +473,6 @@
       "ext": "https://shdy5.us"
     },
     {
-      "key": "尘落影视",
-      "name": "🏰尘落｜影视",
-      "type": 3,
-      "api": "csp_Wetv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://v.wetv.wang"
-    },
-    {
       "key": "低端影视",
       "name": "⛪低端｜影视",
       "type": 3,
