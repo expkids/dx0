@@ -372,14 +372,6 @@
       "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
     },
     {
-      "key": "人人",
-      "name": "🌸人人｜APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
-    },
-    {
       "key": "格格",
       "name": "🌲格格｜APP",
       "type": 3,
@@ -421,14 +413,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "http://kkwk123.top/api.php/app/"
-    },
-    {
-      "key": "移动",
-      "name": "🍄移动｜APP",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "厂长影视",
