@@ -303,16 +303,6 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XYQHiker/短剧屋.json"
     },
     {
-      "key": "HG影视",
-      "name": "🍜HG影视｜APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    },
-    {
       "key": "金牌影视",
       "name": "🍝金牌｜影视",
       "type": 3,
@@ -340,14 +330,6 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cDovL2NhaWppLm8wYS5jbnw3MGZkNjFkOTkxZjQzMjU3fDcwZmQ2MWQ5OTFmNDMyNTd8MTAw"
-    },
-    {
-      "key": "米兔",
-      "name": "🧁米兔｜APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
     },
     {
       "key": "光速",
