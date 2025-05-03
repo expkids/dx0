@@ -195,6 +195,22 @@
       "ext": "jaHR0cHM6Ly9za2FwLm9zcy1jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vZ2V0LnR4dHw0OTkwNDg4MjQ4OTA0ODg0fDQ5OTA0ODgyNDg5MDQ4ODR8MTA3"
     },
     {
+      "key": "玉米",
+      "name": "🍩玉米｜APP",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
+    },
+    {
+      "key": "优质",
+      "name": "🍪优质｜APP",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
+    },
+    {
       "key": "猎手影视",
       "name": "🍓猎手｜APP",
       "type": 3,
@@ -295,6 +311,16 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XYQHiker/短剧屋.json"
     },
     {
+      "key": "HG影视",
+      "name": "🍜HG影视｜APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
+    {
       "key": "金牌影视",
       "name": "🍝金牌｜影视",
       "type": 3,
@@ -322,6 +348,14 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cDovL2NhaWppLm8wYS5jbnw3MGZkNjFkOTkxZjQzMjU3fDcwZmQ2MWQ5OTFmNDMyNTd8MTAw"
+    },
+    {
+      "key": "米兔",
+      "name": "🧁米兔｜APP",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
     },
     {
       "key": "光速",
