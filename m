@@ -1152,24 +1152,6 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/修罗影视.json"
     },
     {
-      "key": "哔哩合集",
-      "name": "🐵哔哩｜合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/哔哩合集.json",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      }
-    },
-    {
       "key": "七味",
       "name": "🐶七味｜磁力",
       "type": 3,
