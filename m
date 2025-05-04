@@ -728,15 +728,6 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/茶杯狐.js"
     },
     {
-      "key": "1905",
-      "name": "☁️1905｜影视",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "红牛资源",
       "name": "⛅红牛｜采集",
       "type": 1,
