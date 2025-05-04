@@ -538,13 +538,6 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/小枫影视.json"
     },
     {
-      "key": "奇迹影视",
-      "name": "🚒奇迹｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/奇迹影视.json"
-    },
-    {
       "key": "可可影视",
       "name": "🚓可可｜影视",
       "type": 3,
