@@ -380,14 +380,6 @@
       "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
     },
     {
-      "key": "悠悠",
-      "name": "🌵悠悠｜APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "jaHR0cDovLzE1Ni4yMjUuMzAuNjU6NTU2Ni9hcGkucGhwfER4d0lzdHJkV2JZcGJsd258RHh3SXN0cmRXYllwYmx3bnwxMTk="
-    },
-    {
       "key": "云端",
       "name": "🍂云端｜APP",
       "type": 3,
