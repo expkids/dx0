@@ -312,14 +312,6 @@
       "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTg2OjEwMDk5fFBNS2Faa0F2NFFwNTNFV258UE1LYVprQXY0UXA1M0VXbnw0MjU="
     },
     {
-      "key": "电影",
-      "name": "🍮电影｜APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
-    },
-    {
       "key": "奇妙",
       "name": "🍯奇妙｜APP",
       "type": 3,
