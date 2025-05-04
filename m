@@ -93,17 +93,6 @@
       "ext": "http://api2.rinhome.com"
     },
     {
-      "key": "狐狸君",
-      "name": "🍒狐狸｜4K免扫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/狐狸君.json"
-    },
-    {
       "key": "接影视影视",
       "name": "💓宝盒｜没宝",
       "type": 3,
