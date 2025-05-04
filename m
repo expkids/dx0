@@ -1169,19 +1169,6 @@
       }
     },
     {
-      "key": "AList",
-      "name": "🐞AList｜合集",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/json/alist.json"
-    },
-    {
       "key": "网络直播",
       "name": "🦠网络｜直播",
       "type": 3,
