@@ -247,15 +247,6 @@
       "playerType": 2
     },
     {
-      "key": "星芽短剧",
-      "name": "🥙星芽｜短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "河马短剧",
       "name": "🥚河马｜短剧",
       "type": 3,
