@@ -559,13 +559,6 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/海纳影视.json"
     },
     {
-      "key": "面包影视",
-      "name": "🚗面包｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/面包影视.json"
-    },
-    {
       "key": "永乐影视",
       "name": "🚙永乐｜影视",
       "type": 3,
